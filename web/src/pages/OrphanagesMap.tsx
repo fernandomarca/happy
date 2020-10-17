@@ -7,7 +7,6 @@ import 'leaflet/dist/leaflet.css';
 
 import mapMarkerImg from '../images/map-marker.svg';
 
-
 import '../styles/pages/orphanages-map.css';
 
 const mapIcon = Leaflet.icon({
